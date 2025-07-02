@@ -13,6 +13,7 @@
 
 ## Services
 
+
 - gateway : Construite au-dessus de FastAPI, simple passerelle api dont le seul devoir est de rendre propre
    routage tout en gérant l'authentification et l'autorisation
 - utilisateurs (a.k.a admin): conserve les informations de l'utilisateur dans sa propre fausse base de données (système de fichiers).
